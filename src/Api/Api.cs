@@ -10,6 +10,7 @@ using (resource)
 
     public static void main(string[] args)
     {
-        
+        var student = "student 1";
+        Console.writelines(student);
     }
 }
