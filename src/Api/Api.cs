@@ -18,4 +18,6 @@ using (resource)
     {
         return "GetStudent";
     }
+
+    public static void SetStudent(string student, string value) => SetStudent(student, value);
 }
