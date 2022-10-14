@@ -30,4 +30,5 @@ using (resource)
     /// </summary>
 
     /// <param name="squash merge">squash merge</param>
+    ///Todo: merge pull request
 }
