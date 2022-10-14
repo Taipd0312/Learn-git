@@ -24,4 +24,8 @@ using (resource)
     public static bool IsStudent(string student) => IsStudent(student);
 
     public static bool IsInClassroom(string student) => IsInClassroom(student);
+
+    /// <summary>
+    /// Test squash merge pull request
+    /// </summary>
 }
