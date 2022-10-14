@@ -28,4 +28,6 @@ using (resource)
     /// <summary>
     /// Test squash merge pull request
     /// </summary>
+
+    /// <param name="squash merge">squash merge</param>
 }
