@@ -20,4 +20,6 @@ using (resource)
     }
 
     public static void SetStudent(string student, string value) => SetStudent(student, value);
+
+    public static bool IsStudent(string student) => IsStudent(student);
 }
