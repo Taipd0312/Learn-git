@@ -13,4 +13,9 @@ using (resource)
         var student = "student 1";
         Console.writelines(student);
     }
+
+    public static void GetStudent(string student)
+    {
+        return "GetStudent";
+    }
 }
