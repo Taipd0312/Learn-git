@@ -12,4 +12,9 @@ using (resource)
     {
         
     }
+
+    public static void GetStudent(string student)
+    {
+        return "GetStudent";
+    }
 }
